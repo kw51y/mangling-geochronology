@@ -4,9 +4,9 @@ site_description = "Repository of information for Kelvin Project"
 site_author = "Kenneth Gibb Wraight"
 
 # Replace <username> (and the repo name if different)
-site_url = "https://<username>.github.io/kelvin-project/"
+site_url = "https://kw51y.github.io/mangling-geochronolgy/"
 repo_name = "GitHub"
-repo_url = "https://github.com/<username>/kelvin-project"
+repo_url = "https://github.com/kw51y/mangling-geochronolgy"
 
 nav = [
   { "Home" = "index.md" },

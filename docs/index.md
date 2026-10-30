@@ -1,19 +1,19 @@
 # Kelvin Project
 
-Welcome to the Kelvin Project documentation.
+Some interactive documentation
+ 
+<figure markdown>
+   ![image info](/img/old-kelvin.png){ width="400" }
+  <figcaption>Who </figcaption>
+</figure>
 
-!!! note
-    Admonitions work out of the box.
+<figure markdown>
+   ![image info](/img/earth.jpg){ width="400" }
+  <figcaption>What </figcaption>
+</figure>
 
-Inline math: \(E = mc^2\)
+<figure markdown>
+   ![image info](/img/hour-glass.png){ width="400" }
+  <figcaption>When? </figcaption>
+</figure>
 
-Block math:
-
-\[
-\int_0^\infty e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}
-\]
-
-| Name  | Value |
-|-------|-------|
-| Alpha | 3     |
-| Beta  | 1     |

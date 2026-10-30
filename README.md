@@ -1,2 +1,3 @@
-# mangling-geochronology
-Project pages on the nineteenth century geochronology debate
+# Mangling Geochronology
+
+Project pages on the nineteenth century geochronology debate.

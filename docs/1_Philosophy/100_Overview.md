@@ -1,4 +1,4 @@
-# Philosophy
+# 1.0 Philosophy
 
 <figure markdown>
    ![image info](/img/200_Overview/ourboros.png){ width="400" }

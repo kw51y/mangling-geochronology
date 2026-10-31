@@ -1,4 +1,4 @@
-# Empiricism
+# 1.1 Empiricism
 
 Philosophical trail that led to twentieth century Science and Technology Studies.
 

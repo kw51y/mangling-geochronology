@@ -1,4 +1,4 @@
-# Scientific Paradigms
+# 1.2 Scientific Paradigms
 
 Kuhnian analysis:
 

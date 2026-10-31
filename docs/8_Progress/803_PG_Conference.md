@@ -1,4 +1,4 @@
-# Counter-Narratives
+# 8.3 Counter-Narratives
 
 The University of Glasgow College of Arts and Humanities Post Graduate Conference on Counter-Narratives took place on 11-12 June 2025.
 

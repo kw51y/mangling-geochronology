@@ -1,4 +1,4 @@
-# STS Scribbles
+# 7.1 STS Scribbles
 
 Why bother with meta-studies of Science?
 

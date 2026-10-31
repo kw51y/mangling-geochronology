@@ -1,4 +1,4 @@
-# A Flavour of Chance
+# 4.3 A Flavour of Chance
 
 Including chance in a game adds unpredictability in outcome. The duration of the game may be expanded or contracted. The path of events could be altered. And, crucially, the overall success or failure of players can be decided without the partiality of player input. In solitary games, making use of chance promotes repeated plays as iterations remain interestingly dissimilar without the monotony of identity. Consider the repeated plays of patience with a shuffled deck of cards. Meanwhile, in competitive games, chance can offer a levelling of opportunity between players where agency alone will not provide a significant contest. Compare the stratification of skill levels in chess duels to the egalitarian races of Snakes and Ladders. Hence, chance can offer the spice of the unexpected to an otherwise unsurprising adventure or mundane match-up.
 

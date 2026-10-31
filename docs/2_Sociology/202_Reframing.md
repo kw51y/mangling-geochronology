@@ -1,4 +1,4 @@
-# Reframing Analyses of Science
+# 2.1 Reframing Analyses of Science
 
 Pickering foregrounds the _practice_ of Science. This contrasts with much of the traditional commentary of Science which had much more to say about the _theoretical_ content of Science, such as the metaphysical interpretation of Scientific theories and the relationships between conceptual frameworks.
 

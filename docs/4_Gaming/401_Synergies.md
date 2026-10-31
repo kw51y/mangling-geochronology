@@ -1,4 +1,4 @@
-# Synergistic Studies
+# 4.1 Synergistic Studies
 
 __Connecting Historical Games Studies and Science and Technology Studies__
 

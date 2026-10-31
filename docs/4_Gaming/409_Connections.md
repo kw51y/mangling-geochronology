@@ -1,4 +1,4 @@
-# Connections
+# 4.4 Connections
 
 The Mangle of Science is an analytical tool native to Science and Technological Studies. Although it deals with issues found in this part of the academic world it is not restricted to the STS context. As its application to Gaming demonatrates, the themes of Agency and Contigency are relevant in other analytic.environments.
 

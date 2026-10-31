@@ -1,4 +1,4 @@
-# Geology
+# 3.2 Geology
 
 By the nineteenth century Geology was transitioning from a hobbyist activity of naturalist enthusiasts to a discipline of trained scholars. 
 During this time wide-ranging theories developed within the discipline, with practitioners framing positions, forming acaedmic camps and resolving contested issues.

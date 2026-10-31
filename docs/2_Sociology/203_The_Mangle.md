@@ -1,4 +1,4 @@
-# Pickering's _Mangle_
+# 2.2 Pickering's _Mangle_
 
 Pickering's analysis of Scientific _practice_ builds on the, allegedly under-represented, themes of _Agency_ and _Contingency_.
 

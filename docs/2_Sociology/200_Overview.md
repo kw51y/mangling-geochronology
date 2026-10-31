@@ -1,4 +1,4 @@
-# Sociology
+# 2.0 Sociology
 
 In general, Sociology is an _empirical_ study of people and their behaviour. 
 The Sociology of Science (SoS) is a particular application of Science to itself as a systematic study of systematic study. 

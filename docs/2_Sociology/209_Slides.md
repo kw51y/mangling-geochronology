@@ -1,4 +1,4 @@
-# Slides
+# 2.4 Slides
 
 Slides presented as part of _Frontiers in Physics_ module of University of Glasgow first year undergraduate Physics course (Physics 1), ca. 2020-21, 2021-22, 2023-24.
 

@@ -1,4 +1,4 @@
-# Historical Example: Vulcan
+# 3.4 Historical Example: Vulcan
 
 Short historical example based on _The Hunt for Vulcan_.
 Aim to show the triumph of centuary physics between seventeenth and nineteenth centuries in describing the movements of the Solar System and predicting a prevoiusly unknown planet.
